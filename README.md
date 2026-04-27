@@ -1,5 +1,5 @@
 # Hi there 👋:
-I'm Hugo Pereira Brito, Cloud Security Engineer and Mantainer at [Prowler](https://github.com/prowler-cloud/prowler) 🔒☁️
+I'm Hugo Pereira Brito, Cloud Security Engineer and Software Engineer at [Prowler](https://github.com/prowler-cloud/prowler) 🔒☁️
 
 
 # GitHub Stats 📊:
